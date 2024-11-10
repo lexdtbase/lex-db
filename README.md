@@ -10,7 +10,7 @@
   <a href="#" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/lexxdb.png">
-    <img alt="Lex Logo" src="assets/lex.png" width="280"/>
+    <img alt="Lexxdb Logo" src="assets/lex.png" width="280"/>
   </picture>
   </a>
 </div>
@@ -37,7 +37,7 @@
 <div>
 <span>
 
-LexDB is a distributed key-value database built for high-performance data storage and retrieval in diverse applications. With its efficient, scalable architecture, LexDB handles large volumes of data across multiple nodes, ensuring fast, reliable access to information in real time. Designed to support varied use cases, LexDB empowers developers to build systems that require robust data handling making it adaptable for any domain demanding efficient, distributed data management.
+LexxDB is a distributed key-value database built for high-performance data storage and retrieval in diverse applications. With its efficient, scalable architecture, LexxDB handles large volumes of data across multiple nodes, ensuring fast, reliable access to information in real time. Designed to support varied use cases, LexxDB empowers developers to build systems that require robust data handling making it adaptable for any domain demanding efficient, distributed data management.
 
 </span>
 </div>
